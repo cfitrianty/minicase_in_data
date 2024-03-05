@@ -9,4 +9,6 @@ This repository is slightly different from previous repositories. Because this i
 2. coding_answer.ipynb = How to do it and answer
 3. Minicase in Data.Pptx = Summary and will be presented to the user
 
+but sorry, the third file is only available in Indonesian :)
+
 And ur' Welcome :))
