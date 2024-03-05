@@ -5,4 +5,8 @@ This repository is slightly different from previous repositories. Because this i
 - free to use any database to upload CSV files (1 million rows of dummy data)
 - Mandatory! for answer questions 2 and 3
 
-First, Read the 'Pre_test.pdf' file !!
+1. Pre_test.pdf = Question
+2. coding_answer.ipynb = How to do it and answer
+3. Minicase in Data.Pptx = Summary and will be presented to the user
+
+And ur' Welcome :))
